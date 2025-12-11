@@ -6,12 +6,14 @@ author_profile: true
 ---
 
 ## Teaching
-TBD
+- **CIS 315 Introduction to Business Data Analytics**
+- **Course Description**
+Overview of analytics in the business context; concepts of strategic and operational analytics; overview of concepts like dimensional modeling, the Model Lifecycle, data mining, big data, KPIs and metrics, ERP and analytics, in-database/memory analytics; real-time analytics and data stream analysis.
 
 ---
 
 ## Talks
-- **Research Centre on Fictitious Economy and Data Science, Chinese Academy of Sciences**  
+- *Location:*Research Centre on Fictitious Economy and Data Science, Chinese Academy of Sciences*  
   *Topic:* Research Methods and Paper Writing in Virtual Business and Information Management  
   *Report:* [Link](http://www.feds.ac.cn/index.php/zh-cn/xwbd/2995-2024-06-05-23-52-54)
 
