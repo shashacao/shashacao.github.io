@@ -4,11 +4,6 @@ title: "About"
 author_profile: true
 ---
 
----
-permalink: /
-title: "About"
-author_profile: true
----
 
 I am a Ph.D. Candidate in Information Systems at the W. P. Carey School of Business, Arizona State University, advised by Professor **[Pei-yu Chen](https://search.asu.edu/profile/2217544)** and **[Raghu Santanam](https://search.asu.edu/profile/192381)**.
 
