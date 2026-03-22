@@ -20,10 +20,16 @@ Overview of analytics in the business context; concepts of strategic and operati
 
 ## Academic Services
 - **Journal Reviewer:**  
-  *Production and Operations Management*, *Decision Support Systems*, *Journal of Retailing and Consumer Services*
+  *Production and Operations Management*,
+  *Decision Support Systems*,
+  *Journal of Retailing and Consumer Services*
 
 - **Conference Reviewer:**  
-  CIST 2022, 2023, 2025; ICIS 2023, 2024, 2025; WITS 2023, 2024; AMCIS 2025, 2026; PACIS 2022, 2026
+  CIST 2022, 2023, 2025;
+  ICIS 2023, 2024, 2025;
+  WITS 2023, 2024;
+  AMCIS 2025, 2026;
+  PACIS 2022, 2026
 
 - **Conference Volunteer:**  
   CIST 2023 (Phoenix)
