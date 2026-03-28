@@ -23,7 +23,7 @@ repository               : "shashacao/shashacao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/Linkedin_SS.jpg"
+  avatar           : "Linkedin_SS.jpg"
   name             : "Shasha Cao"
   pronouns         : #"she/her"  
   bio              : "PhD Candidate in Information Systems at Arizona State University"
