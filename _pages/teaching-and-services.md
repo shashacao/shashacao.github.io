@@ -14,7 +14,8 @@ author_profile: true
 - **CIS 409 Business Data Warehouses and Dimensional Modeling, 2026 Summer**
   - **Course Description**  
     SQL, stored procedures and data warehouse architectures; data warehouse requirements definition, design and analysis; overview of the steps in building information-enabled business models; role of data warehousing in data mining and analytics.
----
+    
+
 
 <!--
 ## Talks
