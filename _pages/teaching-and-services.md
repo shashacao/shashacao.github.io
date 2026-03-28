@@ -6,9 +6,14 @@ author_profile: true
 ---
 
 ## Teaching
-- **CIS 315 Introduction to Business Data Analytics**
+- **CIS 315 Introduction to Business Data Analytics, 2026 Spring**
 - **Course Description**
-Overview of analytics in the business context; concepts of strategic and operational analytics; overview of concepts like dimensional modeling, the Model Lifecycle, data mining, big data, KPIs and metrics, ERP and analytics, in-database/memory analytics; real-time analytics and data stream analysis.
+This course provides an overview of data analytics in the business context, including Data Visualization, Descriptive Analytics, Predictive Analytics, and Prescriptive Analytics. These business data analytics topics address the theory and knowledge necessary to analyze business data in order to support better decision making.
+
+
+- **CIS 409 Business Data Warehouses and Dimensional Modeling, 2026 Summer**
+- **Course Description**
+SQL, stored procedures and data warehouse architectures; data warehouse requirements definition, design and analysis; overview of the steps in building information-enabled business models; role of data warehousing in data mining and analytics.
 
 ---
 <!--
